@@ -1,0 +1,44 @@
+/* Style the about section */
+.card {
+  /* background-color: #fff; */
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* .contact a {
+  text-decoration: none;
+  color: #0073e6;
+} */
+
+/* Style the portfolio project sections */
+.portfolio-projects {
+  /* background-color: #fff; */
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.project {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style links */
+a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.subtitle {
+  padding-top: 35px;
+  padding-bottom: 15px;
+}
